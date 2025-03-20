@@ -2,8 +2,6 @@
 ### This is the numerical simulation code for [the paper](https://arxiv.org/abs/2405.06359v1)
 ## Structure
 
-['data.txt'](data.txt) is the file wich contains the data of matrices used in the our code, and ['ISING_INSPIRED_H.ipynb'](ISING_INSPIRED_H.ipynb) provides a function to bulid matrices(actually, you could have matrices with different structures). 
-
 Our main code consists of three main parts:
 
 1,The [`QKSL.ipynb`](QKSL.ipynb) file is to show the QKSL under ideally condition;
